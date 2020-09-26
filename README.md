@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me:
-📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
+    📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
 - ⚡ Fun fact: ...
 <!--
 **SagarDhandare/SagarDhandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
