@@ -1,12 +1,13 @@
 ### Hi there 👋
 ### I'm Sagar Dhandare a student and an aspiring data scientist.✌️
-##### Currently persuing my Master Degree in  Mathematics from S.G.B.A.U., Amravati.
+###### Currently persuing my Master Degree in  Mathematics from S.G.B.A.U., Amravati.
 
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
 - 🔭 I’m currently working on Machine Learning Projects.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me:
+
     📍 Email : sagardhandare3@gmail.com
     📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
 
