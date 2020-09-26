@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Sagar Dhandare a Mathematics student and an aspiring data scientist.✌️
+### I'm Sagar Dhandare a student and an aspiring data scientist.✌️
+##### Currently persuing my Master Degree in  Mathematics from S.G.B.A.U., Amravati.
 
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
 - 🔭 I’m currently working on Machine Learning Projects.
@@ -8,7 +9,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄  https://www.linkedin.com/in/sagar-dhandare-a401271a3/
+       📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
 - ⚡ Fun fact: ...
 <!--
 **SagarDhandare/SagarDhandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
