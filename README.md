@@ -1,5 +1,5 @@
 ### Hello 🙋‍♂️
-### I'm Sagar Dhandare a student and an aspiring data scientist.✌️
+### I'm Sagar Dhandare, An Aspiring Data Scientist Student.✌️
 ###### Currently persuing my Master Degree in  Mathematics from S.G.B.A.U., Amravati.
 
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
