@@ -9,7 +9,7 @@
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
 - :shipit: How to reach me:
 
-* 📍 Email : sagardhandare3@gmail.com
+   * 📍 Email : sagardhandare3@gmail.com
     
    * 📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
 
