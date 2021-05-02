@@ -7,7 +7,7 @@
 - 🌈  I’m currently working on Machine Learning Projects.
 - 👯 I’m looking to collaborate on Data Science projects.
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
-- 📫 :shipit: How to reach me:
+- :shipit: How to reach me:
 
    * 📍 Email : sagardhandare3@gmail.com
     
