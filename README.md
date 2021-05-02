@@ -1,6 +1,7 @@
-# H1 Hello 🙋‍♂️
+## Hello 🙋‍♂️
 ### I'm Sagar Dhandare, An Aspiring Data Scientist Student.✌️
 ###### Master Degree in  Mathematics(2020) from S.G.B.A.U., Amravati.
+###### Bachelor Degree in  Mathematics, Statistics & Computer Application(20218) from S.G.B.A.U., Amravati.
 
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
 - 🔭 I’m currently working on Machine Learning Projects.
