@@ -3,11 +3,11 @@
 ###### Master Degree in  Mathematics(2020) from S.G.B.A.U., Amravati.
 ###### Bachelor Degree in  Mathematics, Statistics & Computer Application (2018) from S.G.B.A.U., Amravati.
 
-- 🌱 I’m currently learning Data Science. 💖
-- 🔭 I’m currently working on Machine Learning Projects.
+- 💖 I’m currently learning Data Science.
+- 🌈  I’m currently working on Machine Learning Projects.
 - 👯 I’m looking to collaborate on Data Science projects.
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
-- 📫 How to reach me:
+- 📫 :shipit: How to reach me:
 
    * 📍 Email : sagardhandare3@gmail.com
     
