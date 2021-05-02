@@ -12,6 +12,9 @@
    * 📍 Email : sagardhandare3@gmail.com
     
    * 📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
+  a=input()
+  c=a
+  print(c)
 
 <!--
 **SagarDhandare/SagarDhandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
