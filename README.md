@@ -12,7 +12,7 @@
    * 📍 Email : sagardhandare3@gmail.com
     
    * 📍 Linkedin : https://www.linkedin.com/in/sagar-dhandare-a401271a3/
-   *  [Facebook](https://www.facebook.com/sagar.dhandare.50)
+  
 
 
 <!--
@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  *  [Facebook](https://www.facebook.com/sagar.dhandare.50)
 -->
