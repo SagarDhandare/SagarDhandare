@@ -16,7 +16,7 @@
    
    
 
-'visitor-badge.glitch.me/badge?page_id=https://github.com/SagarDhandare' --> 'visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/SagarDhandare'
+visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/SagarDhandare
 
 
 
