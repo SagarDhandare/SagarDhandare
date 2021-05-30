@@ -15,8 +15,7 @@
    
    
    
-
-visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/SagarDhandare
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=SagarDhandare&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 
 
@@ -38,5 +37,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  *  [Facebook](https://www.facebook.com/sagar.dhandare.50)
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=SagarDhandare&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 -->
