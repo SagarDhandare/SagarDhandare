@@ -1,4 +1,4 @@
-<h1> Heyy 🙋‍♂️ I'm Sagar,</h1> <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="200"/>
+<h1> Heyy 🙋‍♂️ I'm Sagar, <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="200"/></h1>
 <h5> An Aspiring Data Scientist Student.✌️ </h5>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
