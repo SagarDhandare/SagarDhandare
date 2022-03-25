@@ -1,12 +1,13 @@
 ## Hello 🙋‍♂️ I'm Sagar, 
 ##### An Aspiring Data Scientist Student.✌️
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
+
 <h3> 👨🏻‍💻 About Me </h3>
 ###### Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Persuing)
 ###### Master Degree in  Mathematics(2020) from S.G.B.A.U., Amravati.
 ###### Bachelor Degree in  Mathematics, Statistics & Computer Application (2018) from S.G.B.A.U., Amravati.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 
 - 💖 I’m currently learning Deep Learning.
 - 🌈  I’m currently working on Machine Learning Projects.
