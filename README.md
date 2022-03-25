@@ -4,6 +4,8 @@
 ###### Master Degree in  Mathematics(2020) from S.G.B.A.U., Amravati.
 ###### Bachelor Degree in  Mathematics, Statistics & Computer Application (2018) from S.G.B.A.U., Amravati.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
+
 - 💖 I’m currently learning Deep Learning.
 - 🌈  I’m currently working on Machine Learning Projects.
 - 👯 I’m looking to collaborate on Data Science projects.
