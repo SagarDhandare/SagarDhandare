@@ -1,5 +1,6 @@
 ## Heyy 🙋‍♂️ I'm Sagar, 
-##### An Aspiring Data Scientist Student.✌️
+##### An Aspiring Data Scientist Student.✌️ 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="100"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 
