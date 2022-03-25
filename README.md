@@ -1,5 +1,6 @@
-## Hello 🙋‍♂️
-## I'm Sagar Dhandare, An Aspiring Data Scientist Student.✌️
+## Hello 🙋‍♂️ I'm Sagar, 
+### An Aspiring Data Scientist Student.✌️
+<h3> 👨🏻‍💻 About Me </h3>
 ###### Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Persuing)
 ###### Master Degree in  Mathematics(2020) from S.G.B.A.U., Amravati.
 ###### Bachelor Degree in  Mathematics, Statistics & Computer Application (2018) from S.G.B.A.U., Amravati.
