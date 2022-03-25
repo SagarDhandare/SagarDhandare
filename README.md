@@ -23,7 +23,7 @@
    * 📍 Medium : https://sagardhandare3.medium.com/
    
    
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="800"/>
    
    
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=SagarDhandare&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
