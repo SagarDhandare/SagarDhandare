@@ -25,7 +25,8 @@
    
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="700"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="SagarDhandare" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+
    
    
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=SagarDhandare&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
