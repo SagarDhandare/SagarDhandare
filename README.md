@@ -1,8 +1,5 @@
-<h2 align="center"> Hey!🙋‍♂️</h2>
-<h2 align="center">I'm Sagar.</h2>
-<p align="center">
-  <b>An Aspiring Data Scientist Student.✌️</b></br>
-</p>
+## Hello 🙋‍♂️ I'm Sagar, 
+### An Aspiring Data Scientist Student.✌️
 
 <h3> 👨🏻‍💻 About Me </h3>
 ###### Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Persuing)
@@ -37,8 +34,7 @@
 **SagarDhandare/SagarDhandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
-## Hello 🙋‍♂️ I'm Sagar, 
-### An Aspiring Data Scientist Student.✌️
+
 
 Here are some ideas to get you started:
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
