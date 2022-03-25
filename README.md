@@ -1,4 +1,5 @@
-<h1 align="center"> Hey! I'm Sagar.🙋‍</h1>
+<h2 align="center"> Hey!🙋‍♂️</h2>
+<h2 align="center">I'm Sagar.</h2>
 <p align="center">
   <b>An Aspiring Data Scientist Student.✌️</b></br>
 </p>
