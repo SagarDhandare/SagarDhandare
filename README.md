@@ -1,4 +1,4 @@
-## Hello 🙋‍♂️ I'm Sagar, 
+## Heyy 🙋‍♂️ I'm Sagar, 
 ##### An Aspiring Data Scientist Student.✌️
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
