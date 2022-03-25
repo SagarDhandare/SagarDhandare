@@ -1,4 +1,4 @@
-## Heyy 🙋‍♂️ I'm Sagar, <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="200"/>
+# Heyy 🙋‍♂️ I'm Sagar, <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="200"/>
 ##### An Aspiring Data Scientist Student.✌️ 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
