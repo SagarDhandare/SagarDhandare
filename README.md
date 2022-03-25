@@ -25,7 +25,7 @@
    
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="700"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SagarDhandare&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
    
    
