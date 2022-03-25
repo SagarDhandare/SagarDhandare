@@ -1,4 +1,4 @@
-<h1> Heyy 🙋‍♂️ I'm Sagar, <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="200"/></h1>
+<h1> Heyy 🙋‍♂️ I'm Sagar,</h1>
 <h5> An Aspiring Data Scientist Student.✌️ </h5>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
@@ -23,6 +23,7 @@
    * 📍 Medium : https://sagardhandare3.medium.com/
    
    
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="500"/>
    
    
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=SagarDhandare&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
