@@ -5,7 +5,7 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🌈 Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Persuing)
+- 🌈 Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Pursuing)
 
 - 💖 Master Degree in  Mathematics (2020) from S.G.B.A.U., Amravati.
 
