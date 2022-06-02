@@ -1,18 +1,18 @@
 <h1> Heyy 🙋‍♂️ I'm Sagar,</h1>
-<h5> An Aspiring Data Scientist Student.✌️ </h5>
+<h5> Data Scientist @Honeywell ✌️ </h5>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🌈 Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.(Pursuing)
+- 🌈 Post Graduate Diploma in Big Data Analytics (2021-22) from CDAC ACTS Bangalore.
 
 - 💖 Master Degree in  Mathematics (2020) from S.G.B.A.U., Amravati.
 
 - 🌞 Bachelor Degree in  Mathematics, Statistics & Computer Application (2018) from S.G.B.A.U., Amravati.
 
 
-- 👯 I’m looking to collaborate on Data Science projects.
+
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
 - :shipit: How to reach me:
 
@@ -42,6 +42,7 @@
 
 - 💖 I’m currently learning Deep Learning.
 - 🌈  I’m currently working on Machine Learning Projects.
+- 👯 I’m looking to collaborate on Data Science projects.
 
 Here are some ideas to get you started:
 - ⚽️ Hobbies: Sports (Cricket, Badminton), Playing videogames.
