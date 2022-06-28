@@ -1,5 +1,5 @@
 <h1> Heyy 🙋‍♂️ I'm Sagar,</h1>
-<h5> Data Scientist @Honeywell 🍁 </h5>
+<h5> Data Scientist I @Honeywell 🍁 </h5>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 
